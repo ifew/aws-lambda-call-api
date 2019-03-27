@@ -1,0 +1,1 @@
+# AWS Lmbda Function for testing call to external API and other Lamnda
